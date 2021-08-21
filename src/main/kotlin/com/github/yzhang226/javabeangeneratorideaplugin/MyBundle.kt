@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.yzhang226.javabeangeneratorideaplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
